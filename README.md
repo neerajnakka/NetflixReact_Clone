@@ -27,7 +27,7 @@ A feature-rich Netflix Clone built using **React** and **Firebase**, offering a 
 
 ## Live Demo
 
-Try the live application [here](https://netflix-clone-neeraj.onrender.com/).
+Try the live application [here](https://netflix-clone-wi5g.onrender.com/).
 
 ---
 
