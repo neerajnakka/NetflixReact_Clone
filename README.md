@@ -23,6 +23,14 @@ A feature-rich Netflix Clone built using **React** and **Firebase**, offering a 
 
 ---
 
+---
+
+## Live Demo
+
+Try the live application [here](https://netflix-clone-neeraj.onrender.com/).
+
+---
+
 ## How to Run the Code
 
 ### Prerequisites
@@ -34,10 +42,6 @@ Ensure you have the following tools installed:
 ### Steps to Clone and Run Locally
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/neerajnakka/Netflix_Clone.git
-   cd Netflix_Clone
-   ```
 
 2. **Install Dependencies**:
    Run the following command to install all necessary packages:
@@ -75,10 +79,6 @@ Ensure you have the following tools installed:
 - **`npm run build`**: Builds the app for production.
 - **`npm run preview`**: Previews the production build.
 ---
-
-## Live Demo
-
-Try the live application [here](https://netflix-clone-neeraj.onrender.com/).
 
 
 Enjoy building and exploring the Netflix Clone! 😊
